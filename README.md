@@ -5,4 +5,4 @@
 .react-beautiful-dnd
 .react-hook-form
 
-![데모](./assets/your-gif-file.gif)
+![데모](./assets/dnd.gif)
