@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# 노션 Drag And Drop 기능 구현
+
+.react-query
+.recoil
+.react-beautiful-dnd
+.react-hook-form
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
