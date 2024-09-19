@@ -22,6 +22,6 @@
 
 프로젝트의 최신 버전은 Vercel에서 배포된 링크에서 확인하실 수 있습니다:
 
-[배포된 애플리케이션 보기](https://https://dnd-react-jade.vercel.app/)
+[배포된 애플리케이션 보기](https://dnd-react-hvixs0z51-solonestlevelings-projects.vercel.app//)
 
 
